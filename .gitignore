@@ -1,0 +1,6 @@
+*.vs
+**/bin
+**/obj
+**/*.csproj.user
+
+src/EShop.BackEnd/tempkey.rsa
